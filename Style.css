@@ -11,7 +11,7 @@ body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
     background-color: #E1ACAC;
-    color: #333;
+    color: black;
 
 }
 
@@ -74,7 +74,7 @@ nav ul li {
 }
 
 nav ul li button {
-    background: #555;
+    background: #333;
     color: #fff;
     border: none;
     padding: 10px 15px;
@@ -126,10 +126,10 @@ p{
     position: relative;
     background-color: transparent;
     cursor: pointer;
-    border: 2px solid #252525;
+    border: 2px solid #333;
     overflow: hidden;
     border-radius: 10px;
-    color: #333;
+    color: #252525;
     transition: all 0.5s ease-in-out;
 }
 
@@ -308,7 +308,7 @@ footer {
 }
 
 .project-link:hover {
-    background-color: #555;
+    background-color: #444;
 }
 .social-media {
     display: flex;
